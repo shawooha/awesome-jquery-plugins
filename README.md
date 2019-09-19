@@ -12,3 +12,28 @@ My collection of useful jQuery plugins. (Well, not all of them :))
 - https://github.com/uNmAnNeR/imaskjs
 - https://igorescobar.github.io/jQuery-Mask-Plugin/
 - https://www.npmjs.com/package/input.numbered
+
+## WYSIWYG editors
+https://quilljs.com/
+
+## Charts
+https://www.chartjs.org/
+
+## Page Loading Indicators
+https://github.hubspot.com/pace/docs/welcome/
+
+## Date and Time picker
+https://www.daterangepicker.com/
+https://fullcalendar.io/
+
+## Tables
+https://datatables.net/
+
+## Indicators, Gauges
+https://bernii.github.io/gauge.js/
+
+## Range Selectors
+http://ionden.com/a/plugins/ion.rangeslider/index.html
+
+## Select
+https://select2.org/
