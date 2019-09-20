@@ -37,3 +37,6 @@ http://ionden.com/a/plugins/ion.rangeslider/index.html
 
 ## Select
 https://select2.org/
+
+## Animations
+Animate on scroll | https://michalsnik.github.io/aos/
