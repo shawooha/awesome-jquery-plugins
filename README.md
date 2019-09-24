@@ -41,5 +41,8 @@ https://select2.org/
 ## Animations
 Animate on scroll | https://michalsnik.github.io/aos/
 
+## Media
+https://www.mediaelementjs.com/
+
 ## Misc
 Headroom.js hides your page's header until needed | http://wicky.nillia.ms/headroom.js/
