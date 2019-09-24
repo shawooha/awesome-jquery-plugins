@@ -40,3 +40,6 @@ https://select2.org/
 
 ## Animations
 Animate on scroll | https://michalsnik.github.io/aos/
+
+## Misc
+Headroom.js hides your page's header until needed | http://wicky.nillia.ms/headroom.js/
