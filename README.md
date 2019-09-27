@@ -6,6 +6,7 @@ My collection of useful jQuery plugins. (Well, not all of them :))
 - https://idangero.us/swiper/
 - https://flickity.metafizzy.co/
 - https://kenwheeler.github.io/slick/
+- https://owlcarousel2.github.io/OwlCarousel2/
 
 ## Masked Input
 - https://github.com/digitalBush/jquery.maskedinput
