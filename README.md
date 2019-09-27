@@ -24,8 +24,8 @@ https://www.chartjs.org/
 https://github.hubspot.com/pace/docs/welcome/
 
 ## Date and Time picker
-https://www.daterangepicker.com/
-https://fullcalendar.io/
+- https://www.daterangepicker.com/
+- https://fullcalendar.io/
 
 ## Tables
 https://datatables.net/
@@ -40,7 +40,8 @@ http://ionden.com/a/plugins/ion.rangeslider/index.html
 https://select2.org/
 
 ## Animations
-Animate on scroll | https://michalsnik.github.io/aos/
+- https://michalsnik.github.io/aos/ | Animate on scroll
+- https://animejs.com/ | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. 
 
 ## Media
 https://www.mediaelementjs.com/
