@@ -47,4 +47,5 @@ https://select2.org/
 https://www.mediaelementjs.com/
 
 ## Misc
-Headroom.js hides your page's header until needed | http://wicky.nillia.ms/headroom.js/
+- Headroom.js hides your page's header until needed | http://wicky.nillia.ms/headroom.js/
+- Popper | https://popper.js.org/
