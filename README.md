@@ -16,36 +16,40 @@ My collection of useful jQuery plugins. (Well, not all of them :))
 - https://www.npmjs.com/package/input.numbered
 
 ## WYSIWYG editors
-https://quilljs.com/
+- https://quilljs.com/
 
 ## Charts
-https://www.chartjs.org/
+- https://www.chartjs.org/
 
 ## Page Loading Indicators
-https://github.hubspot.com/pace/docs/welcome/
+- https://github.hubspot.com/pace/docs/welcome/
 
 ## Date and Time picker
 - https://www.daterangepicker.com/
 - https://fullcalendar.io/
 
 ## Tables
-https://datatables.net/
+- https://datatables.net/
 
 ## Indicators, Gauges
-https://bernii.github.io/gauge.js/
+- https://bernii.github.io/gauge.js/
 
 ## Range Selectors
-http://ionden.com/a/plugins/ion.rangeslider/index.html
+- http://ionden.com/a/plugins/ion.rangeslider/index.html
 
 ## Select
-https://select2.org/
+- https://select2.org/
 
 ## Animations
 - https://michalsnik.github.io/aos/ | Animate on scroll
 - https://animejs.com/ | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. 
+- http://iprodev.github.io/Scrollax.js | Scrollax
+
+## Lightbox
+- https://www.jacklmoore.com/colorbox/
 
 ## Media
-https://www.mediaelementjs.com/
+- https://www.mediaelementjs.com/
 
 ## Misc
 - Headroom.js hides your page's header until needed | http://wicky.nillia.ms/headroom.js/
