@@ -39,6 +39,7 @@ My collection of useful jQuery plugins. (Well, not all of them :))
 
 ## Select
 - https://select2.org/
+- https://github.com/selectize/selectize.js
 
 ## Animations
 - https://michalsnik.github.io/aos/ | Animate on scroll
