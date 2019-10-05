@@ -45,9 +45,11 @@ My collection of useful jQuery plugins. (Well, not all of them :))
 - https://michalsnik.github.io/aos/ | Animate on scroll
 - https://animejs.com/ | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. 
 - http://iprodev.github.io/Scrollax.js | Scrollax
+- GSAP | https://github.com/greensock/GreenSock-JS/
 
 ## Lightbox
 - https://www.jacklmoore.com/colorbox/
+- https://fancyapps.com/fancybox/3/
 
 ## Media
 - https://www.mediaelementjs.com/
