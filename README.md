@@ -57,3 +57,4 @@ My collection of useful jQuery plugins. (Well, not all of them :))
 ## Misc
 - Headroom.js hides your page's header until needed | http://wicky.nillia.ms/headroom.js/
 - Popper | https://popper.js.org/
+- DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.| https://www.dropzonejs.com/ 
